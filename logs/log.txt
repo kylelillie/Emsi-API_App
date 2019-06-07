@@ -1,0 +1,47 @@
+
+2018-06-14 16:01:32.075287: sys.argv59 
+2018-06-14 16:01:32.075319: sys.argv detected 
+2018-06-14 16:01:32.075326ca state industry jobs
+2018-06-14 16:01:32.261167: response successful 
+2018-06-14 16:01:32.263657: file read successfully -province -13
+2018-06-14 16:01:32.263684: regional catasrophe
+2018-06-14 16:01:34.440915: appending data 
+2018-06-14 16:01:34.459121: data saved as: ca.province.industry.jobs.2012-2012.csv 
+2018-06-14 16:01:34.464888: sending email to 59
+2018-06-14 16:27:24.837567ca state industry jobs
+2018-06-14 16:27:24.995286: response successful 
+2018-06-14 16:27:24.997741: file read successfully -province -13
+2018-06-14 16:27:24.997766: regional catasrophe
+2018-06-14 16:27:27.079606: appending data 
+2018-06-14 16:27:27.098715: data saved as: ca.province.industry.jobs.2012-2012.csv 
+2018-06-14 16:27:27.104598: zipping failed
+2018-06-15 10:36:35.962507ca state industry jobs
+2018-06-15 10:36:36.150151: response successful 
+2018-06-15 10:36:36.152601: file read successfully -province -13
+2018-06-15 10:36:42.125919: appending data 
+2018-06-15 10:36:42.144349: data saved as: ca.province.industry.jobs.2013-2013.csv 
+2018-06-15 10:36:42.150907: zipping failed
+2018-06-15 11:02:24.898462: sys.argv48,59 
+2018-06-15 11:04:12.024321: regions 48,59 
+2018-06-15 11:17:39.032216: regions 48,59,35
+2018-06-15 11:18:40.049293: regions 48,59,35
+2018-06-15 10:46:57.144568: 48 
+2018-06-15 10:46:57.144603: 59 
+2018-06-15 10:46:57.144614ca county industry jobs
+2018-06-15 10:46:57.307318: response successful 
+2018-06-15 10:46:57.317316: file read successfully -csd -5253
+2018-06-15 11:25:47.325448: appending data 
+2018-06-15 11:25:48.098057: data saved as: ca.csd.industry.jobs.2013-2013.csv 
+2018-06-15 11:25:48.418927: zipping failed
+2018-06-15 10:52:25.419701ca county industry jobs
+2018-06-15 10:52:25.590905: response successful 
+2018-06-15 10:52:25.600642: file read successfully -csd -5253
+2018-06-15 11:31:41.449909: appending data 
+2018-06-15 11:31:42.304090: data saved as: ca.csd.industry.jobs.2013-2013.csv 
+2018-06-15 11:31:42.705882: zipping failed
+2018-06-15 12:20:51.988566: begin transmission
+2018-06-15 12:20:51.988598: regions 48
+2018-06-15 15:33:22.075847: begin transmission
+2018-06-15 15:33:22.075882: regions 48,46,806,833,825
+2018-06-15 15:37:06.245119: begin transmission
+2018-06-15 15:37:06.245172: regions 48,46,806,833,825

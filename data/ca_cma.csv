@@ -1,0 +1,929 @@
+id,name,region,msa_id,msa
+5909052,Abbotsford,British Columbia,932,Abbotsford - Mission
+5909056,Mission,British Columbia,932,Abbotsford - Mission
+5909877,Upper Sumas 6,British Columbia,932,Abbotsford - Mission
+5909878,Matsqui Main 2,British Columbia,932,Abbotsford - Mission
+2493042,Alma,Quebec,410,Alma
+2493045,Saint-Nazaire,Quebec,410,Alma
+2488050,Saint-Mathieu-d'Harricana,Quebec,481,Amos
+2488055,Amos,Quebec,481,Amos
+2488060,Saint-Felix-de-Dalquier,Quebec,481,Amos
+2488065,Saint-Dominique-du-Rosaire,Quebec,481,Amos
+2488075,Trecesson,Quebec,481,Amos
+2488085,Sainte-Gertrude-Manneville,Quebec,481,Amos
+2488802,Pikogan,Quebec,481,Amos
+2496015,Franquelin,Quebec,406,Baie-Comeau
+2496020,Baie-Comeau,Quebec,406,Baie-Comeau
+2496025,Pointe-Lebel,Quebec,406,Baie-Comeau
+2496030,Pointe-aux-Outardes,Quebec,406,Baie-Comeau
+2496035,Chute-aux-Outardes,Quebec,406,Baie-Comeau
+2496040,Ragueneau,Quebec,406,Baie-Comeau
+3543009,Springwater,Ontario,568,Barrie
+3543017,Innisfil,Ontario,568,Barrie
+3543042,Barrie,Ontario,568,Barrie
+1314025,Belledune,New Brunswick,328,Bathurst
+1315008,Bathurst,New Brunswick,328,Bathurst
+1315010,Pabineau 11,New Brunswick,328,Bathurst
+1315011,Bathurst,New Brunswick,328,Bathurst
+1315012,Beresford,New Brunswick,328,Bathurst
+1315013,Pointe-Verte,New Brunswick,328,Bathurst
+1315014,Petit-Rocher,New Brunswick,328,Bathurst
+1315015,Beresford,New Brunswick,328,Bathurst
+1315037,Nigadoo,New Brunswick,328,Bathurst
+1001385,Upper Island Cove,Newfoundland,5,Bay Roberts
+1001394,Bishop's Cove,Newfoundland,5,Bay Roberts
+1001396,Spaniard's Bay,Newfoundland,5,Bay Roberts
+1001409,Bay Roberts,Newfoundland,5,Bay Roberts
+1001426,North River,Newfoundland,5,Bay Roberts
+3512005,Belleville,Ontario,522,Belleville
+3512015,Quinte West,Ontario,522,Belleville
+4607057,Whitehead,Manitoba,610,Brandon
+4607060,Cornwallis,Manitoba,610,Brandon
+4607062,Brandon,Manitoba,610,Brandon
+4607071,Elton,Manitoba,610,Brandon
+3529005,Brant,Ontario,543,Brantford
+3529006,Brantford,Ontario,543,Brantford
+3529020,Six Nations (Part) 40,Ontario,543,Brantford
+3507006,Augusta,Ontario,512,Brockville
+3507014,Elizabethtown-Kitley,Ontario,512,Brockville
+3507015,Brockville,Ontario,512,Brockville
+4802031,Newell County No. 4,Alberta,806,Brooks
+4802034,Brooks,Alberta,806,Brooks
+4802036,Duchess,Alberta,806,Brooks
+4802038,Rosemary,Alberta,806,Brooks
+4802039,Bassano,Alberta,806,Brooks
+4806014,Rocky View County,Alberta,825,Calgary
+4806016,Calgary,Alberta,825,Calgary
+4806017,Chestermere,Alberta,825,Calgary
+4806019,Cochrane,Alberta,825,Calgary
+4806021,Airdrie,Alberta,825,Calgary
+4806022,Irricana,Alberta,825,Calgary
+4806024,Beiseker,Alberta,825,Calgary
+4806026,Crossfield,Alberta,825,Calgary
+4806804,Tsuu T'ina Nation 145 (Sarcee 145),Alberta,825,Calgary
+5924034,Campbell River,British Columbia,944,Campbell River
+5924042,Strathcona D (Oyster Bay - Buttle Lake),British Columbia,944,Campbell River
+5924804,Campbell River 11,British Columbia,944,Campbell River
+5924812,Quinsam 12,British Columbia,944,Campbell River
+5924840,Homalco 9,British Columbia,944,Campbell River
+1314008,Dalhousie,New Brunswick,330,Campbellton (New Brunswick part)
+1314012,Addington,New Brunswick,330,Campbellton (New Brunswick part)
+1314013,Atholville,New Brunswick,330,Campbellton (New Brunswick part)
+1314014,Campbellton,New Brunswick,330,Campbellton (New Brunswick part)
+1314015,Tide Head,New Brunswick,330,Campbellton (New Brunswick part)
+2406030,Pointe-a-la-Croix,Quebec,330,Campbellton (Quebec part)
+2406804,Listuguj,Quebec,330,Campbellton (Quebec part)
+4810011,Camrose,Alberta,833,Camrose
+4815023,Canmore,Alberta,828,Canmore
+1217008,Membertou 28B,Nova Scotia,225,Cape Breton
+1217020,Eskasoni 3,Nova Scotia,225,Cape Breton
+1217030,Cape Breton,Nova Scotia,225,Cape Breton
+3523025,Centre Wellington,Ontario,531,Centre Wellington
+1102014,Lot 48,Prince Edward Island,105,Charlottetown
+1102026,Lot 31,Prince Edward Island,105,Charlottetown
+1102028,Lot 65,Prince Edward Island,105,Charlottetown
+1102030,Rocky Point 3,Prince Edward Island,105,Charlottetown
+1102033,Meadowbank,Prince Edward Island,105,Charlottetown
+1102037,Clyde River,Prince Edward Island,105,Charlottetown
+1102040,Miltonvale Park,Prince Edward Island,105,Charlottetown
+1102042,Lot 23,Prince Edward Island,105,Charlottetown
+1102048,Brackley,Prince Edward Island,105,Charlottetown
+1102049,Lot 33,Prince Edward Island,105,Charlottetown
+1102050,Union Road,Prince Edward Island,105,Charlottetown
+1102052,Lot 34,Prince Edward Island,105,Charlottetown
+1102054,Lot 35,Prince Edward Island,105,Charlottetown
+1102056,Lot 36,Prince Edward Island,105,Charlottetown
+1102065,Winsloe South,Prince Edward Island,105,Charlottetown
+1102070,Warren Grove,Prince Edward Island,105,Charlottetown
+1102075,Charlottetown,Prince Edward Island,105,Charlottetown
+1102080,Stratford,Prince Edward Island,105,Charlottetown
+1102085,Cornwall,Prince Edward Island,105,Charlottetown
+3536020,Chatham-Kent,Ontario,556,Chatham-Kent
+3536029,Moravian 47,Ontario,556,Chatham-Kent
+5909020,Chilliwack,British Columbia,930,Chilliwack
+5909027,Harrison Hot Springs,British Columbia,930,Chilliwack
+5909032,Kent,British Columbia,930,Chilliwack
+5909036,Fraser Valley E,British Columbia,930,Chilliwack
+5909821,Kwawkwawapilt 6,British Columbia,930,Chilliwack
+5909824,Skwah 4,British Columbia,930,Chilliwack
+5909825,Skwali 3,British Columbia,930,Chilliwack
+5909826,Skway 5,British Columbia,930,Chilliwack
+5909827,Soowahlie 14,British Columbia,930,Chilliwack
+5909830,Tzeachten 13,British Columbia,930,Chilliwack
+5909831,Yakweakwioose 12,British Columbia,930,Chilliwack
+5909832,Seabird Island,British Columbia,930,Chilliwack
+5909833,Scowlitz 1,British Columbia,930,Chilliwack
+5909834,Tseatah 2,British Columbia,930,Chilliwack
+5909835,Aitchelitch 9,British Columbia,930,Chilliwack
+5909838,Schelowat 1,British Columbia,930,Chilliwack
+5909849,Skwahla 2,British Columbia,930,Chilliwack
+5909884,Skowkale,British Columbia,930,Chilliwack
+5909885,Squiaala,British Columbia,930,Chilliwack
+3514021,Cobourg,Ontario,527,Cobourg
+4812002,Cold Lake,Alberta,845,Cold Lake
+3543031,Collingwood,Ontario,567,Collingwood
+1005011,Steady Brook,Newfoundland,15,Corner Brook
+1005015,Gillams,Newfoundland,15,Corner Brook
+1005017,Massey Drive,Newfoundland,15,Corner Brook
+1005018,Corner Brook,Newfoundland,15,Corner Brook
+1005020,Humber Arm South,Newfoundland,15,Corner Brook
+1005022,McIvers,Newfoundland,15,Corner Brook
+1005025,Meadows,Newfoundland,15,Corner Brook
+1005030,Irishtown-Summerside,Newfoundland,15,Corner Brook
+1005033,Mount Moriah,Newfoundland,15,Corner Brook
+3501011,South Stormont,Ontario,501,Cornwall
+3501012,Cornwall,Ontario,501,Cornwall
+5926005,Comox,British Columbia,943,Courtenay
+5926010,Courtenay,British Columbia,943,Courtenay
+5926014,Cumberland,British Columbia,943,Courtenay
+5926021,Comox Valley A,British Columbia,943,Courtenay
+5926022,Comox Valley B (Lazo North),British Columbia,943,Courtenay
+5926801,Comox 1,British Columbia,943,Courtenay
+2446080,Cowansville,Quebec,437,Cowansville
+5901022,Cranbrook,British Columbia,905,Cranbrook
+5901035,East Kootenay C,British Columbia,905,Cranbrook
+5901802,Isidore's Ranch 4,British Columbia,905,Cranbrook
+5901805,Cassimayooks (Mayook) 5,British Columbia,905,Cranbrook
+5955014,Dawson Creek,British Columbia,975,Dawson Creek
+2492015,Sainte-Jeanne-d'Arc,Quebec,411,Dolbeau-Mistassini
+2492022,Dolbeau-Mistassini,Quebec,411,Dolbeau-Mistassini
+2492065,Saint-Eugene-d'Argentenay,Quebec,411,Dolbeau-Mistassini
+2449030,Saint-Lucien,Quebec,447,Drummondville
+2449040,Wickham,Quebec,447,Drummondville
+2449048,Saint-Germain-de-Grantham,Quebec,447,Drummondville
+2449058,Drummondville,Quebec,447,Drummondville
+2449070,Saint-Cyrille-de-Wendover,Quebec,447,Drummondville
+2449075,Notre-Dame-du-Bon-Conseil,Quebec,447,Drummondville
+2449080,Notre-Dame-du-Bon-Conseil,Quebec,447,Drummondville
+2449095,Saint-Majorique-de-Grantham,Quebec,447,Drummondville
+5919008,North Cowichan,British Columbia,937,Duncan
+5919012,Duncan,British Columbia,937,Duncan
+5919013,Cowichan Valley D,British Columbia,937,Duncan
+5919051,Cowichan Valley E,British Columbia,937,Duncan
+5919801,Halalt 2,British Columbia,937,Duncan
+5919802,Squaw-hay-one 11,British Columbia,937,Duncan
+5919803,Tsussie 6,British Columbia,937,Duncan
+5919808,Kil-pah-las 3,British Columbia,937,Duncan
+5919818,Theik 2,British Columbia,937,Duncan
+5919821,Tzart-Lam 5,British Columbia,937,Duncan
+5919822,Cowichan,British Columbia,937,Duncan
+4810066,Bruderheim,Alberta,835,Edmonton
+4811012,Leduc County,Alberta,835,Edmonton
+4811013,Beaumont,Alberta,835,Edmonton
+4811016,Leduc,Alberta,835,Edmonton
+4811018,Devon,Alberta,835,Edmonton
+4811019,Calmar,Alberta,835,Edmonton
+4811020,Sundance Beach,Alberta,835,Edmonton
+4811021,Thorsby,Alberta,835,Edmonton
+4811022,Itaska Beach,Alberta,835,Edmonton
+4811023,Golden Days,Alberta,835,Edmonton
+4811024,Warburg,Alberta,835,Edmonton
+4811034,Parkland County,Alberta,835,Edmonton
+4811038,Seba Beach,Alberta,835,Edmonton
+4811039,Betula Beach,Alberta,835,Edmonton
+4811041,Point Alison,Alberta,835,Edmonton
+4811042,Lakeview,Alberta,835,Edmonton
+4811044,Kapasiwin,Alberta,835,Edmonton
+4811045,Wabamun,Alberta,835,Edmonton
+4811046,Spring Lake,Alberta,835,Edmonton
+4811048,Stony Plain,Alberta,835,Edmonton
+4811049,Spruce Grove,Alberta,835,Edmonton
+4811052,Strathcona County,Alberta,835,Edmonton
+4811056,Fort Saskatchewan,Alberta,835,Edmonton
+4811059,Sturgeon County,Alberta,835,Edmonton
+4811061,Edmonton,Alberta,835,Edmonton
+4811062,St. Albert,Alberta,835,Edmonton
+4811064,Gibbons,Alberta,835,Edmonton
+4811065,Redwater,Alberta,835,Edmonton
+4811066,Bon Accord,Alberta,835,Edmonton
+4811068,Morinville,Alberta,835,Edmonton
+4811069,Legal,Alberta,835,Edmonton
+4811804,Stony Plain 135,Alberta,835,Edmonton
+4811805,Alexander 134,Alberta,835,Edmonton
+4811806,Wabamun 133A,Alberta,835,Edmonton
+4811807,Wabamun 133B,Alberta,835,Edmonton
+1313014,Riviere-Verte,New Brunswick,335,Edmundston
+1313018,Saint-Basile,New Brunswick,335,Edmundston
+1313020,St. Basile 10,New Brunswick,335,Edmundston
+1313022,Saint-Joseph,New Brunswick,335,Edmundston
+1313024,Saint-Jacques,New Brunswick,335,Edmundston
+1313027,Edmundston,New Brunswick,335,Edmundston
+1313032,Saint-Hilaire,New Brunswick,335,Edmundston
+1313033,St. Hilaire,New Brunswick,335,Edmundston
+3557041,Elliot Lake,Ontario,582,Elliot Lake
+4701021,Bienfait,Saskatchewan,750,Estevan
+4701022,Estevan No. 5,Saskatchewan,750,Estevan
+4701024,Estevan,Saskatchewan,750,Estevan
+5955030,Taylor,British Columbia,977,Fort St. John
+5955034,Fort St. John,British Columbia,977,Fort St. John
+5955042,Peace River C,British Columbia,977,Fort St. John
+1303004,Gladstone,New Brunswick,320,Fredericton
+1303008,Lincoln,New Brunswick,320,Fredericton
+1303016,Maugerville,New Brunswick,320,Fredericton
+1310001,New Maryland,New Brunswick,320,Fredericton
+1310002,New Maryland,New Brunswick,320,Fredericton
+1310018,Kingsclear,New Brunswick,320,Fredericton
+1310019,Kingsclear 6,New Brunswick,320,Fredericton
+1310026,Bright,New Brunswick,320,Fredericton
+1310028,Douglas,New Brunswick,320,Fredericton
+1310031,Saint Marys,New Brunswick,320,Fredericton
+1310032,Fredericton,New Brunswick,320,Fredericton
+1310034,Devon 30,New Brunswick,320,Fredericton
+2446078,Bromont,Quebec,450,Granby
+2447010,Saint-Alphonse-de-Granby,Quebec,450,Granby
+2447017,Granby,Quebec,450,Granby
+2455015,Saint-Paul-d'Abbotsford,Quebec,450,Granby
+1006017,Grand Falls-Windsor,Newfoundland,10,Grand Falls-Windsor
+4819012,Grande Prairie,Alberta,850,Grande Prairie
+3552051,Whitefish Lake 6,Ontario,580,Greater Sudbury / Grand Sudbury
+3553005,Greater Sudbury / Grand Sudbury,Ontario,580,Greater Sudbury / Grand Sudbury
+3553040,Wahnapitei 11,Ontario,580,Greater Sudbury / Grand Sudbury
+3523001,Puslinch,Ontario,550,Guelph
+3523008,Guelph,Ontario,550,Guelph
+3523009,Guelph/Eramosa,Ontario,550,Guelph
+1209019,Cole Harbour 30,Nova Scotia,205,Halifax
+1209029,Shubenacadie 13,Nova Scotia,205,Halifax
+1209034,Halifax,Nova Scotia,205,Halifax
+1209037,Beaver Lake 17,Nova Scotia,205,Halifax
+1209038,Sheet Harbour 36,Nova Scotia,205,Halifax
+3524002,Burlington,Ontario,537,Hamilton
+3525005,Hamilton,Ontario,537,Hamilton
+3526065,Grimsby,Ontario,537,Hamilton
+3502008,Hawkesbury,Ontario,502,Hawkesbury (Ontario part)
+2476055,Grenville,Quebec,502,Hawkesbury (Quebec part)
+4806006,High River,Alberta,821,High River
+3532018,Ingersoll,Ontario,533,Ingersoll
+2461005,Saint-Paul,Quebec,456,Joliette
+2461025,Joliette,Quebec,456,Joliette
+2461030,Notre-Dame-des-Prairies,Quebec,456,Joliette
+2461035,Saint-Charles-Borromee,Quebec,456,Joliette
+5933035,Logan Lake,British Columbia,925,Kamloops
+5933039,Thompson-Nicola J (Copper Desert Country),British Columbia,925,Kamloops
+5933042,Kamloops,British Columbia,925,Kamloops
+5933044,Thompson-Nicola P (Rivers and the Peaks),British Columbia,925,Kamloops
+5933045,Sun Peaks Mountain,British Columbia,925,Kamloops
+5933054,Chase,British Columbia,925,Kamloops
+5933877,Whispering Pines 4,British Columbia,925,Kamloops
+5933880,Kamloops 1,British Columbia,925,Kamloops
+5933884,Sahhaltkum 4,British Columbia,925,Kamloops
+3516010,Kawartha Lakes,Ontario,530,Kawartha Lakes
+5935010,Kelowna,British Columbia,915,Kelowna
+5935012,Central Okanagan,British Columbia,915,Kelowna
+5935016,Lake Country,British Columbia,915,Kelowna
+5935018,Peachland,British Columbia,915,Kelowna
+5935020,Central Okanagan J,British Columbia,915,Kelowna
+5935029,West Kelowna,British Columbia,915,Kelowna
+5935801,Duck Lake 7,British Columbia,915,Kelowna
+5935802,Tsinstikeptum  9,British Columbia,915,Kelowna
+5935803,Tsinstikeptum 10,British Columbia,915,Kelowna
+3560010,Kenora,Ontario,598,Kenora
+1207011,"Kings, Subd. C",Nova Scotia,210,Kentville
+1207012,Kentville,Nova Scotia,210,Kentville
+1207016,"Kings, Subd. B",Nova Scotia,210,Kentville
+3510005,Frontenac Islands,Ontario,521,Kingston
+3510010,Kingston,Ontario,521,Kingston
+3510020,South Frontenac,Ontario,521,Kingston
+3511005,Loyalist,Ontario,521,Kingston
+3530004,North Dumfries,Ontario,541,Kitchener - Cambridge - Waterloo
+3530010,Cambridge,Ontario,541,Kitchener - Cambridge - Waterloo
+3530013,Kitchener,Ontario,541,Kitchener - Cambridge - Waterloo
+3530016,Waterloo,Ontario,541,Kitchener - Cambridge - Waterloo
+3530035,Woolwich,Ontario,541,Kitchener - Cambridge - Waterloo
+2476020,Lachute,Quebec,468,Lachute
+4808031,Lacombe,Alberta,832,Lacombe
+3537003,Leamington,Ontario,557,Leamington
+3537013,Kingsville,Ontario,557,Leamington
+4802011,Lethbridge County,Alberta,810,Lethbridge
+4802012,Lethbridge,Alberta,810,Lethbridge
+4802013,Coalhurst,Alberta,810,Lethbridge
+4802014,Nobleford,Alberta,810,Lethbridge
+4802016,Barons,Alberta,810,Lethbridge
+4802018,Picture Butte,Alberta,810,Lethbridge
+4802019,Coaldale,Alberta,810,Lethbridge
+4810039,Lloydminster (Part),Alberta,840,Lloydminster (Alberta part)
+4717022,Wilton No. 472,Saskatchewan,840,Lloydminster (Saskatchewan part)
+4717024,Lashburn,Saskatchewan,840,Lloydminster (Saskatchewan part)
+4717026,Marshall,Saskatchewan,840,Lloydminster (Saskatchewan part)
+4717029,Lloydminster (Part),Saskatchewan,840,Lloydminster (Saskatchewan part)
+3534020,Central Elgin,Ontario,555,London
+3534021,St. Thomas,Ontario,555,London
+3534024,Southwold,Ontario,555,London
+3539015,Strathroy-Caradoc,Ontario,555,London
+3539027,Thames Centre,Ontario,555,London
+3539033,Middlesex Centre,Ontario,555,London
+3539036,London,Ontario,555,London
+3539047,Adelaide-Metcalfe,Ontario,555,London
+2408023,Sainte-Felicite,Quebec,403,Matane
+2408035,Saint-Rene-de-Matane,Quebec,403,Matane
+2408053,Matane,Quebec,403,Matane
+2408073,Saint-Ulric,Quebec,403,Matane
+4801003,Cypress County,Alberta,805,Medicine Hat
+4801006,Medicine Hat,Alberta,805,Medicine Hat
+4801018,Redcliff,Alberta,805,Medicine Hat
+3543071,Tay,Ontario,571,Midland
+3543072,Penetanguishene,Ontario,571,Midland
+3543074,Midland,Ontario,571,Midland
+1309004,Glenelg,New Brunswick,329,Miramichi
+1309006,Chatham,New Brunswick,329,Miramichi
+1309011,Derby,New Brunswick,329,Miramichi
+1309014,Nelson,New Brunswick,329,Miramichi
+1309023,Red Bank 4,New Brunswick,329,Miramichi
+1309026,Southesk,New Brunswick,329,Miramichi
+1309028,Northesk,New Brunswick,329,Miramichi
+1309031,Newcastle,New Brunswick,329,Miramichi
+1309034,Big Hole Tract 8 (South Half),New Brunswick,329,Miramichi
+1309035,Eel Ground 2,New Brunswick,329,Miramichi
+1309050,Miramichi,New Brunswick,329,Miramichi
+1306008,Elgin,New Brunswick,305,Moncton
+1306011,Hillsborough,New Brunswick,305,Moncton
+1306014,Coverdale,New Brunswick,305,Moncton
+1306020,Riverview,New Brunswick,305,Moncton
+1306025,Hillsborough,New Brunswick,305,Moncton
+1307011,Dorchester,New Brunswick,305,Moncton
+1307012,Dorchester,New Brunswick,305,Moncton
+1307013,Memramcook,New Brunswick,305,Moncton
+1307014,Fort Folly 1,New Brunswick,305,Moncton
+1307019,Moncton,New Brunswick,305,Moncton
+1307022,Moncton,New Brunswick,305,Moncton
+1307028,Salisbury,New Brunswick,305,Moncton
+1307045,Dieppe,New Brunswick,305,Moncton
+1308008,Saint-Paul,New Brunswick,305,Moncton
+2452007,Lavaltrie,Quebec,462,Montreal
+2455057,Richelieu,Quebec,462,Montreal
+2455065,Saint-Mathias-sur-Richelieu,Quebec,462,Montreal
+2457005,Chambly,Quebec,462,Montreal
+2457010,Carignan,Quebec,462,Montreal
+2457020,Saint-Basile-le-Grand,Quebec,462,Montreal
+2457025,McMasterville,Quebec,462,Montreal
+2457030,Otterburn Park,Quebec,462,Montreal
+2457035,Mont-Saint-Hilaire,Quebec,462,Montreal
+2457040,Beloeil,Quebec,462,Montreal
+2457045,Saint-Mathieu-de-Beloeil,Quebec,462,Montreal
+2458007,Brossard,Quebec,462,Montreal
+2458012,Saint-Lambert,Quebec,462,Montreal
+2458033,Boucherville,Quebec,462,Montreal
+2458037,Saint-Bruno-de-Montarville,Quebec,462,Montreal
+2458227,Longueuil,Quebec,462,Montreal
+2459010,Sainte-Julie,Quebec,462,Montreal
+2459015,Saint-Amable,Quebec,462,Montreal
+2459020,Varennes,Quebec,462,Montreal
+2459025,Vercheres,Quebec,462,Montreal
+2460005,Charlemagne,Quebec,462,Montreal
+2460013,Repentigny,Quebec,462,Montreal
+2460020,Saint-Sulpice,Quebec,462,Montreal
+2460028,L'Assomption,Quebec,462,Montreal
+2460035,L'epiphanie,Quebec,462,Montreal
+2460040,L'epiphanie,Quebec,462,Montreal
+2464008,Terrebonne,Quebec,462,Montreal
+2464015,Mascouche,Quebec,462,Montreal
+2465005,Laval,Quebec,462,Montreal
+2466007,Montreal-Est,Quebec,462,Montreal
+2466023,Montreal,Quebec,462,Montreal
+2466032,Westmount,Quebec,462,Montreal
+2466047,Montreal-Ouest,Quebec,462,Montreal
+2466058,Côte-Saint-Luc,Quebec,462,Montreal
+2466062,Hampstead,Quebec,462,Montreal
+2466072,Mont-Royal,Quebec,462,Montreal
+2466087,Dorval,Quebec,462,Montreal
+2466092,L'Ile-Dorval,Quebec,462,Montreal
+2466097,Pointe-Claire,Quebec,462,Montreal
+2466102,Kirkland,Quebec,462,Montreal
+2466107,Beaconsfield,Quebec,462,Montreal
+2466112,Baie-D'Urfe,Quebec,462,Montreal
+2466117,Sainte-Anne-de-Bellevue,Quebec,462,Montreal
+2466127,Senneville,Quebec,462,Montreal
+2466142,Dollard-Des Ormeaux,Quebec,462,Montreal
+2467005,Saint-Mathieu,Quebec,462,Montreal
+2467010,Saint-Philippe,Quebec,462,Montreal
+2467015,La Prairie,Quebec,462,Montreal
+2467020,Candiac,Quebec,462,Montreal
+2467025,Delson,Quebec,462,Montreal
+2467030,Sainte-Catherine,Quebec,462,Montreal
+2467035,Saint-Constant,Quebec,462,Montreal
+2467040,Saint-Isidore,Quebec,462,Montreal
+2467045,Mercier,Quebec,462,Montreal
+2467050,Chateauguay,Quebec,462,Montreal
+2467055,Lery,Quebec,462,Montreal
+2467802,Kahnawake,Quebec,462,Montreal
+2470022,Beauharnois,Quebec,462,Montreal
+2471025,Saint-Zotique,Quebec,462,Montreal
+2471033,Les Coteaux,Quebec,462,Montreal
+2471040,Coteau-du-Lac,Quebec,462,Montreal
+2471050,Les Cedres,Quebec,462,Montreal
+2471055,Pointe-des-Cascades,Quebec,462,Montreal
+2471060,L'Ile-Perrot,Quebec,462,Montreal
+2471065,Notre-Dame-de-l'Ile-Perrot,Quebec,462,Montreal
+2471070,Pincourt,Quebec,462,Montreal
+2471075,Terrasse-Vaudreuil,Quebec,462,Montreal
+2471083,Vaudreuil-Dorion,Quebec,462,Montreal
+2471090,Vaudreuil-sur-le-Lac,Quebec,462,Montreal
+2471095,L'Ile-Cadieux,Quebec,462,Montreal
+2471100,Hudson,Quebec,462,Montreal
+2471105,Saint-Lazare,Quebec,462,Montreal
+2472005,Saint-Eustache,Quebec,462,Montreal
+2472010,Deux-Montagnes,Quebec,462,Montreal
+2472015,Sainte-Marthe-sur-le-Lac,Quebec,462,Montreal
+2472020,Pointe-Calumet,Quebec,462,Montreal
+2472025,Saint-Joseph-du-Lac,Quebec,462,Montreal
+2472032,Oka,Quebec,462,Montreal
+2472043,Saint-Placide,Quebec,462,Montreal
+2472802,Kanesatake,Quebec,462,Montreal
+2473005,Boisbriand,Quebec,462,Montreal
+2473010,Sainte-Therese,Quebec,462,Montreal
+2473015,Blainville,Quebec,462,Montreal
+2473020,Rosemere,Quebec,462,Montreal
+2473025,Lorraine,Quebec,462,Montreal
+2473030,Bois-des-Filion,Quebec,462,Montreal
+2473035,Sainte-Anne-des-Plaines,Quebec,462,Montreal
+2474005,Mirabel,Quebec,462,Montreal
+2475005,Saint-Colomban,Quebec,462,Montreal
+2475017,Saint-Jerôme,Quebec,462,Montreal
+2476025,Gore,Quebec,462,Montreal
+4707038,Moose Jaw No. 161,Saskatchewan,715,Moose Jaw
+4707039,Moose Jaw,Saskatchewan,715,Moose Jaw
+5921007,Nanaimo,British Columbia,938,Nanaimo
+5921008,Lantzville,British Columbia,938,Nanaimo
+5921010,Nanaimo A,British Columbia,938,Nanaimo
+5921016,Nanaimo C,British Columbia,938,Nanaimo
+5921804,Nanaimo Town 1,British Columbia,938,Nanaimo
+5921805,Nanoose,British Columbia,938,Nanaimo
+5921807,Nanaimo River,British Columbia,938,Nanaimo
+1212006,"Pictou, Subd. B",Nova Scotia,220,New Glasgow
+1212008,Westville,Nova Scotia,220,New Glasgow
+1212009,Stellarton,Nova Scotia,220,New Glasgow
+1212011,"Pictou, Subd. C",Nova Scotia,220,New Glasgow
+1212014,New Glasgow,Nova Scotia,220,New Glasgow
+1212016,Trenton,Nova Scotia,220,New Glasgow
+1212019,Fisher's Grant 24,Nova Scotia,220,New Glasgow
+1212023,Merigomish Harbour 31,Nova Scotia,220,New Glasgow
+3528052,Norfolk County,Ontario,547,Norfolk
+4712078,Battle River No. 438,Saskatchewan,735,North Battleford
+4712079,Battleford,Saskatchewan,735,North Battleford
+4712837,Sweet Grass 113-M16,Saskatchewan,735,North Battleford
+4716027,North Battleford,Saskatchewan,735,North Battleford
+4716029,North Battleford,Saskatchewan,735,North Battleford
+3548027,Bonfield,Ontario,575,North Bay
+3548034,East Ferris,Ontario,575,North Bay
+3548044,North Bay,Ontario,575,North Bay
+3549066,Callander,Ontario,575,North Bay
+4806012,Okotoks,Alberta,820,Okotoks
+3543019,Ramara,Ontario,569,Orillia
+3543050,Mnjikaning First Nation 32 (Rama First Nation 32),Ontario,569,Orillia
+3543052,Orillia,Ontario,569,Orillia
+3518009,Whitby,Ontario,532,Oshawa
+3518013,Oshawa,Ontario,532,Oshawa
+3518017,Clarington,Ontario,532,Oshawa
+3502036,Clarence-Rockland,Ontario,505,Ottawa - Gatineau (Ontario part)
+3502048,Russell,Ontario,505,Ottawa - Gatineau (Ontario part)
+3506008,Ottawa,Ontario,505,Ottawa - Gatineau (Ontario part)
+2480065,Mayo,Quebec,505,Ottawa - Gatineau (Quebec part)
+2480140,Val-des-Bois,Quebec,505,Ottawa - Gatineau (Quebec part)
+2480145,Bowman,Quebec,505,Ottawa - Gatineau (Quebec part)
+2481017,Gatineau,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482005,L'Ange-Gardien,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482010,Notre-Dame-de-la-Salette,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482015,Val-des-Monts,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482020,Cantley,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482025,Chelsea,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482030,Pontiac,Quebec,505,Ottawa - Gatineau (Quebec part)
+2482035,La Peche,Quebec,505,Ottawa - Gatineau (Quebec part)
+2483005,Denholm,Quebec,505,Ottawa - Gatineau (Quebec part)
+3542053,Georgian Bluffs,Ontario,566,Owen Sound
+3542059,Owen Sound,Ontario,566,Owen Sound
+5921018,Parksville,British Columbia,939,Parksville
+5921023,Qualicum Beach,British Columbia,939,Parksville
+5921034,Nanaimo G,British Columbia,939,Parksville
+3547064,Pembroke,Ontario,515,Pembroke
+3547075,Laurentian Valley,Ontario,515,Pembroke
+5907041,Penticton,British Columbia,913,Penticton
+5907047,Okanagan-Similkameen D,British Columbia,913,Penticton
+5907051,Okanagan-Similkameen F,British Columbia,913,Penticton
+5907803,Penticton 1,British Columbia,913,Penticton
+3547076,Petawawa,Ontario,516,Petawawa
+3515005,Otonabee-South Monaghan,Ontario,529,Peterborough
+3515008,Hiawatha First Nation,Ontario,529,Peterborough
+3515013,Cavan-Monaghan,Ontario,529,Peterborough
+3515014,Peterborough,Ontario,529,Peterborough
+3515015,Smith-Ennismore-Lakefield,Ontario,529,Peterborough
+3515019,Curve Lake First Nation 35,Ontario,529,Peterborough
+3515023,Douro-Dummer,Ontario,529,Peterborough
+5923008,Port Alberni,British Columbia,940,Port Alberni
+5923033,Alberni-Clayoquot B,British Columbia,940,Port Alberni
+5923035,Alberni-Clayoquot D,British Columbia,940,Port Alberni
+5923037,Alberni-Clayoquot E,British Columbia,940,Port Alberni
+5923039,Alberni-Clayoquot F,British Columbia,940,Port Alberni
+5923801,Ahahswinis 1,British Columbia,940,Port Alberni
+5923802,Alberni 2,British Columbia,940,Port Alberni
+5923816,Tsahaheh 1,British Columbia,940,Port Alberni
+5923822,Klehkoot 2,British Columbia,940,Port Alberni
+3514020,Port Hope,Ontario,528,Port Hope
+4609029,Portage la Prairie,Manitoba,607,Portage la Prairie
+5927008,Powell River,British Columbia,945,Powell River
+5927012,Powell River B,British Columbia,945,Powell River
+5927016,Powell River C,British Columbia,945,Powell River
+5927806,Sechelt (Part),British Columbia,945,Powell River
+4715064,Prince Albert No. 461,Saskatchewan,745,Prince Albert
+4715066,Prince Albert,Saskatchewan,745,Prince Albert
+4715094,Buckland No. 491,Saskatchewan,745,Prince Albert
+4715846,Chief Joseph Custer,Saskatchewan,745,Prince Albert
+4715848,Wahpaton 94A,Saskatchewan,745,Prince Albert
+5953023,Prince George,British Columbia,970,Prince George
+5953038,Fraser-Fort George A,British Columbia,970,Prince George
+5953042,Fraser-Fort George C,British Columbia,970,Prince George
+5953044,Fraser-Fort George D,British Columbia,970,Prince George
+5953048,Fraser-Fort George F,British Columbia,970,Prince George
+5953801,Fort George (Shelley) 2,British Columbia,970,Prince George
+5947007,Port Edward,British Columbia,955,Prince Rupert
+5947012,Prince Rupert,British Columbia,955,Prince Rupert
+2419068,Saint-Henri,Quebec,421,Quebec
+2419105,Beaumont,Quebec,421,Quebec
+2420005,Saint-Francois-de-l'Ile-d'Orleans,Quebec,421,Quebec
+2420010,Sainte-Famille,Quebec,421,Quebec
+2420015,Saint-Jean-de-l'Ile-d'Orleans,Quebec,421,Quebec
+2420020,Saint-Laurent-de-l'Ile-d'Orleans,Quebec,421,Quebec
+2420025,Saint-Pierre-de-l'Ile-d'Orleans,Quebec,421,Quebec
+2420030,Sainte-Petronille,Quebec,421,Quebec
+2421035,Chateau-Richer,Quebec,421,Quebec
+2421040,L'Ange-Gardien,Quebec,421,Quebec
+2421045,Boischatel,Quebec,421,Quebec
+2422005,Sainte-Catherine-de-la-Jacques-Cartier,Quebec,421,Quebec
+2422010,Fossambault-sur-le-Lac,Quebec,421,Quebec
+2422015,Lac-Saint-Joseph,Quebec,421,Quebec
+2422020,Shannon,Quebec,421,Quebec
+2422025,Saint-Gabriel-de-Valcartier,Quebec,421,Quebec
+2422030,Lac-Delage,Quebec,421,Quebec
+2422035,Stoneham-et-Tewkesbury,Quebec,421,Quebec
+2422040,Lac-Beauport,Quebec,421,Quebec
+2422045,Sainte-Brigitte-de-Laval,Quebec,421,Quebec
+2423015,Notre-Dame-des-Anges,Quebec,421,Quebec
+2423027,Quebec,Quebec,421,Quebec
+2423057,L'Ancienne-Lorette,Quebec,421,Quebec
+2423072,Saint-Augustin-de-Desmaures,Quebec,421,Quebec
+2423802,Wendake,Quebec,421,Quebec
+2425213,Levis,Quebec,421,Quebec
+2426070,Saint-Lambert-de-Lauzon,Quebec,421,Quebec
+2434007,Neuville,Quebec,421,Quebec
+5941013,Quesnel,British Columbia,952,Quesnel
+5941019,Cariboo A,British Columbia,952,Quesnel
+5941021,Cariboo B,British Columbia,952,Quesnel
+5941027,Cariboo I,British Columbia,952,Quesnel
+5941809,Quesnel 1,British Columbia,952,Quesnel
+5941833,Kluskus 1,British Columbia,952,Quesnel
+5941835,Coglistiko River 29,British Columbia,952,Quesnel
+5941837,Nazco 20,British Columbia,952,Quesnel
+5941852,Trout Lake Alec 16,British Columbia,952,Quesnel
+5941864,Sundayman's Meadow 3,British Columbia,952,Quesnel
+5941865,Tatelkus Lake 28,British Columbia,952,Quesnel
+5941866,Euchinico Creek 17,British Columbia,952,Quesnel
+5941881,Baezaeko River 27,British Columbia,952,Quesnel
+5941882,Alexandria,British Columbia,952,Quesnel
+4808011,Red Deer,Alberta,830,Red Deer
+4706021,Pense No. 160,Saskatchewan,705,Regina
+4706022,Belle Plaine,Saskatchewan,705,Regina
+4706023,Pense,Saskatchewan,705,Regina
+4706026,Sherwood No. 159,Saskatchewan,705,Regina
+4706027,Regina,Saskatchewan,705,Regina
+4706028,Grand Coulee,Saskatchewan,705,Regina
+4706029,Edenwold No. 158,Saskatchewan,705,Regina
+4706030,White City,Saskatchewan,705,Regina
+4706031,Pilot Butte,Saskatchewan,705,Regina
+4706032,Balgonie,Saskatchewan,705,Regina
+4706033,Edenwold,Saskatchewan,705,Regina
+4706053,Lumsden No. 189,Saskatchewan,705,Regina
+4706054,Disley,Saskatchewan,705,Regina
+4706055,Buena Vista,Saskatchewan,705,Regina
+4706056,Lumsden,Saskatchewan,705,Regina
+4706057,Lumsden Beach,Saskatchewan,705,Regina
+4706058,Regina Beach,Saskatchewan,705,Regina
+2410015,Saint-Narcisse-de-Rimouski,Quebec,404,Rimouski
+2410030,Saint-Anaclet-de-Lessard,Quebec,404,Rimouski
+2410043,Rimouski,Quebec,404,Rimouski
+2412015,Saint-Antonin,Quebec,405,Riviere-du-Loup
+2412020,Saint-Modeste,Quebec,405,Riviere-du-Loup
+2412057,Cacouna,Quebec,405,Riviere-du-Loup
+2412072,Riviere-du-Loup,Quebec,405,Riviere-du-Loup
+2412080,Notre-Dame-du-Portage,Quebec,405,Riviere-du-Loup
+2486042,Rouyn-Noranda,Quebec,485,Rouyn-Noranda
+2488090,Preissac,Quebec,485,Rouyn-Noranda
+2494068,Saguenay,Quebec,408,Saguenay
+2494225,Saint-Felix-d'Otis,Quebec,408,Saguenay
+2494230,Sainte-Rose-du-Nord,Quebec,408,Saguenay
+2494235,Saint-Fulgence,Quebec,408,Saguenay
+2494240,Saint-Honore,Quebec,408,Saguenay
+2494245,Saint-David-de-Falardeau,Quebec,408,Saguenay
+2494260,Saint-Charles-de-Bourget,Quebec,408,Saguenay
+2494265,Larouche,Quebec,408,Saguenay
+1301001,Saint Martins,New Brunswick,310,Saint John
+1301002,St. Martins,New Brunswick,310,Saint John
+1301004,Simonds,New Brunswick,310,Saint John
+1301006,Saint John,New Brunswick,310,Saint John
+1301016,Musquash,New Brunswick,310,Saint John
+1302008,Lepreau,New Brunswick,310,Saint John
+1304001,Petersville,New Brunswick,310,Saint John
+1305004,Upham,New Brunswick,310,Saint John
+1305006,Hampton,New Brunswick,310,Saint John
+1305007,Hampton,New Brunswick,310,Saint John
+1305008,Rothesay,New Brunswick,310,Saint John
+1305011,Westfield,New Brunswick,310,Saint John
+1305014,Kingston,New Brunswick,310,Saint John
+1305015,Grand Bay-Westfield,New Brunswick,310,Saint John
+1305038,Greenwich,New Brunswick,310,Saint John
+1305045,Rothesay,New Brunswick,310,Saint John
+1305057,Quispamsis,New Brunswick,310,Saint John
+2429073,Saint-Georges,Quebec,428,Saint-Georges
+2429095,Lac-Poulin,Quebec,428,Saint-Georges
+2429100,Saint-BenoIt-Labre,Quebec,428,Saint-Georges
+2429120,Notre-Dame-des-Pins,Quebec,428,Saint-Georges
+2429125,Saint-Simon-les-Mines,Quebec,428,Saint-Georges
+2454048,Saint-Hyacinthe,Quebec,452,Saint-Hyacinthe
+2454060,Saint-Dominique,Quebec,452,Saint-Hyacinthe
+2454090,Saint-Simon,Quebec,452,Saint-Hyacinthe
+2456083,Saint-Jean-sur-Richelieu,Quebec,459,Saint-Jean-sur-Richelieu
+2470052,Salaberry-de-Valleyfield,Quebec,465,Salaberry-de-Valleyfield
+5939032,Salmon Arm,British Columbia,920,Salmon Arm
+5939808,Switsemalph 3,British Columbia,920,Salmon Arm
+5939811,Switsemalph,British Columbia,920,Salmon Arm
+3538003,St. Clair,Ontario,562,Sarnia
+3538025,Sarnia 45,Ontario,562,Sarnia
+3538030,Sarnia,Ontario,562,Sarnia
+3538031,Point Edward,Ontario,562,Sarnia
+4711060,Thode,Saskatchewan,725,Saskatoon
+4711061,Dundurn No. 314,Saskatchewan,725,Saskatoon
+4711063,Dundurn,Saskatchewan,725,Saskatoon
+4711064,Shields,Saskatchewan,725,Saskatoon
+4711065,Corman Park No. 344,Saskatchewan,725,Saskatoon
+4711066,Saskatoon,Saskatchewan,725,Saskatoon
+4711067,Langham,Saskatchewan,725,Saskatoon
+4711068,Warman,Saskatchewan,725,Saskatoon
+4711069,Blucher No. 343,Saskatchewan,725,Saskatoon
+4711070,Martensville,Saskatchewan,725,Saskatoon
+4711071,Bradwell,Saskatchewan,725,Saskatoon
+4711072,Allan,Saskatchewan,725,Saskatoon
+4711073,Dalmeny,Saskatchewan,725,Saskatoon
+4711074,Elstow,Saskatchewan,725,Saskatoon
+4711075,Osler,Saskatchewan,725,Saskatoon
+4711076,Colonsay No. 342,Saskatchewan,725,Saskatoon
+4711077,Clavet,Saskatchewan,725,Saskatoon
+4711078,Meacham,Saskatchewan,725,Saskatoon
+4711079,Colonsay,Saskatchewan,725,Saskatoon
+4711828,Whitecap,Saskatchewan,725,Saskatoon
+4712054,Vanscoy No. 345,Saskatchewan,725,Saskatoon
+4712056,Delisle,Saskatchewan,725,Saskatoon
+4712058,Vanscoy,Saskatchewan,725,Saskatoon
+4712059,Asquith,Saskatchewan,725,Saskatoon
+3557011,Laird,Ontario,590,Sault Ste. Marie
+3557051,"Macdonald, Meredith and Aberdeen Additional",Ontario,590,Sault Ste. Marie
+3557061,Sault Ste. Marie,Ontario,590,Sault Ste. Marie
+3557066,Prince,Ontario,590,Sault Ste. Marie
+3557074,Garden River 14,Ontario,590,Sault Ste. Marie
+3557075,Rankin Location 15D,Ontario,590,Sault Ste. Marie
+2497007,Sept-Iles,Quebec,412,Sept-Iles
+2497802,Uashat,Quebec,412,Sept-Iles
+2497804,Maliotenam,Quebec,412,Sept-Iles
+2435045,Saint-Roch-de-Mekinac,Quebec,444,Shawinigan
+2436033,Shawinigan,Quebec,444,Shawinigan
+2451085,Saint-Boniface,Quebec,444,Shawinigan
+2441055,Ascot Corner,Quebec,433,Sherbrooke
+2442005,Stoke,Quebec,433,Sherbrooke
+2442025,Saint-Denis-de-Brompton,Quebec,433,Sherbrooke
+2442095,Val-Joli,Quebec,433,Sherbrooke
+2443027,Sherbrooke,Quebec,433,Sherbrooke
+2444071,Compton,Quebec,433,Sherbrooke
+2444080,Waterville,Quebec,433,Sherbrooke
+2445050,North Hatley,Quebec,433,Sherbrooke
+2445055,Hatley,Quebec,433,Sherbrooke
+2445072,Magog,Quebec,433,Sherbrooke
+2445115,Orford,Quebec,433,Sherbrooke
+2453025,Sainte-Victoire-de-Sorel,Quebec,454,Sorel-Tracy
+2453050,Saint-Joseph-de-Sorel,Quebec,454,Sorel-Tracy
+2453052,Sorel-Tracy,Quebec,454,Sorel-Tracy
+2453065,Sainte-Anne-de-Sorel,Quebec,454,Sorel-Tracy
+2459035,Contrecoeur,Quebec,454,Sorel-Tracy
+5931006,Squamish,British Columbia,934,Squamish
+5931802,Kowtain 17,British Columbia,934,Squamish
+5931806,Seaichem 16,British Columbia,934,Squamish
+5931807,Stawamus 24,British Columbia,934,Squamish
+5931808,Waiwakum 14,British Columbia,934,Squamish
+5931809,Yekwaupsum 18,British Columbia,934,Squamish
+3526003,Fort Erie,Ontario,539,St. Catharines - Niagara
+3526011,Port Colborne,Ontario,539,St. Catharines - Niagara
+3526014,Wainfleet,Ontario,539,St. Catharines - Niagara
+3526028,Pelham,Ontario,539,St. Catharines - Niagara
+3526032,Welland,Ontario,539,St. Catharines - Niagara
+3526037,Thorold,Ontario,539,St. Catharines - Niagara
+3526043,Niagara Falls,Ontario,539,St. Catharines - Niagara
+3526047,Niagara-Ontario-the-Lake,Ontario,539,St. Catharines - Niagara
+3526053,St. Catharines,Ontario,539,St. Catharines - Niagara
+3526057,Lincoln,Ontario,539,St. Catharines - Niagara
+1001485,Conception Bay South,Newfoundland,1,St. John's
+1001504,Portugal Cove-St. Philip's,Newfoundland,1,St. John's
+1001505,Pouch Cove,Newfoundland,1,St. John's
+1001507,Flatrock,Newfoundland,1,St. John's
+1001509,Torbay,Newfoundland,1,St. John's
+1001511,Logy Bay-Middle Cove-Outer Cove,Newfoundland,1,St. John's
+1001512,Bauline,Newfoundland,1,St. John's
+1001517,Paradise,Newfoundland,1,St. John's
+1001519,St. John's,Newfoundland,1,St. John's
+1001542,Mount Pearl,Newfoundland,1,St. John's
+1001551,Petty Harbour-Maddox Cove,Newfoundland,1,St. John's
+1001557,Bay Bulls,Newfoundland,1,St. John's
+1001559,Witless Bay,Newfoundland,1,St. John's
+4602044,Steinbach,Manitoba,605,Steinbach
+3531011,Stratford,Ontario,553,Stratford
+4805018,Strathmore,Alberta,826,Strathmore
+1103019,Lot 17,Prince Edward Island,110,Summerside
+1103023,Linkletter,Prince Edward Island,110,Summerside
+1103024,Miscouche,Prince Edward Island,110,Summerside
+1103025,Summerside,Prince Edward Island,110,Summerside
+4708001,Swift Current No. 137,Saskatchewan,720,Swift Current
+4708004,Swift Current,Saskatchewan,720,Swift Current
+4808005,Jarvis Bay,Alberta,831,Sylvan Lake
+4808012,Sylvan Lake,Alberta,831,Sylvan Lake
+4808013,Norglenwold,Alberta,831,Sylvan Lake
+3554001,Coleman,Ontario,584,Temiskaming Shores
+3554008,Cobalt,Ontario,584,Temiskaming Shores
+3554014,Harris,Ontario,584,Temiskaming Shores
+3554020,Temiskaming Shores,Ontario,584,Temiskaming Shores
+3554026,Harley,Ontario,584,Temiskaming Shores
+3554029,Casey,Ontario,584,Temiskaming Shores
+5949011,Terrace,British Columbia,965,Terrace
+5949018,Kitimat-Stikine E,British Columbia,965,Terrace
+5949807,Kulspai 6,British Columbia,965,Terrace
+2431045,Saint-Joseph-de-Coleraine,Quebec,430,Thetford Mines
+2431084,Thetford Mines,Quebec,430,Thetford Mines
+2431095,Saint-Adrien-d'Irlande,Quebec,430,Thetford Mines
+4622017,Mystery Lake,Manitoba,640,Thompson
+4622026,Thompson,Manitoba,640,Thompson
+3558001,Neebing,Ontario,595,Thunder Bay
+3558003,Fort William 52,Ontario,595,Thunder Bay
+3558004,Thunder Bay,Ontario,595,Thunder Bay
+3558011,Oliver Paipoonge,Ontario,595,Thunder Bay
+3558012,Gillies,Ontario,595,Thunder Bay
+3558016,O'Connor,Ontario,595,Thunder Bay
+3558019,Conmee,Ontario,595,Thunder Bay
+3558028,Shuniah,Ontario,595,Thunder Bay
+3532004,Tillsonburg,Ontario,546,Tillsonburg
+3556027,Timmins,Ontario,586,Timmins
+3518001,Pickering,Ontario,535,Toronto
+3518005,Ajax,Ontario,535,Toronto
+3518029,Uxbridge,Ontario,535,Toronto
+3519028,Vaughan,Ontario,535,Toronto
+3519036,Markham,Ontario,535,Toronto
+3519038,Richmond Hill,Ontario,535,Toronto
+3519044,Whitchurch-Stouffville,Ontario,535,Toronto
+3519046,Aurora,Ontario,535,Toronto
+3519048,Newmarket,Ontario,535,Toronto
+3519049,King,Ontario,535,Toronto
+3519054,East Gwillimbury,Ontario,535,Toronto
+3519070,Georgina,Ontario,535,Toronto
+3519076,Chippewas of Georgina Island First Nation,Ontario,535,Toronto
+3520005,Toronto,Ontario,535,Toronto
+3521005,Mississauga,Ontario,535,Toronto
+3521010,Brampton,Ontario,535,Toronto
+3521024,Caledon,Ontario,535,Toronto
+3522012,Mono,Ontario,535,Toronto
+3522014,Orangeville,Ontario,535,Toronto
+3524001,Oakville,Ontario,535,Toronto
+3524009,Milton,Ontario,535,Toronto
+3524015,Halton Hills,Ontario,535,Toronto
+3543007,New Tecumseth,Ontario,535,Toronto
+3543014,Bradford West Gwillimbury,Ontario,535,Toronto
+2437067,Trois-Rivieres,Quebec,442,Trois-Rivieres
+2437220,Champlain,Quebec,442,Trois-Rivieres
+2437225,Saint-Luc-de-Vincennes,Quebec,442,Trois-Rivieres
+2437230,Saint-Maurice,Quebec,442,Trois-Rivieres
+2438010,Becancour,Quebec,442,Trois-Rivieres
+2438802,Wôlinak,Quebec,442,Trois-Rivieres
+2451020,Yamachiche,Quebec,442,Trois-Rivieres
+1210001,"Colchester, Subd. C",Nova Scotia,215,Truro
+1210003,Millbrook 27,Nova Scotia,215,Truro
+1210006,Truro,Nova Scotia,215,Truro
+1210008,"Colchester, Subd. B",Nova Scotia,215,Truro
+2489008,Val-d'Or,Quebec,480,Val-d'Or
+2489804,Lac-Simon,Quebec,480,Val-d'Or
+5915001,Langley,British Columbia,933,Vancouver
+5915002,Langley,British Columbia,933,Vancouver
+5915004,Surrey,British Columbia,933,Vancouver
+5915007,White Rock,British Columbia,933,Vancouver
+5915011,Delta,British Columbia,933,Vancouver
+5915015,Richmond,British Columbia,933,Vancouver
+5915020,Greater Vancouver A,British Columbia,933,Vancouver
+5915022,Vancouver,British Columbia,933,Vancouver
+5915025,Burnaby,British Columbia,933,Vancouver
+5915029,New Westminster,British Columbia,933,Vancouver
+5915034,Coquitlam,British Columbia,933,Vancouver
+5915036,Belcarra,British Columbia,933,Vancouver
+5915038,Anmore,British Columbia,933,Vancouver
+5915039,Port Coquitlam,British Columbia,933,Vancouver
+5915043,Port Moody,British Columbia,933,Vancouver
+5915046,North Vancouver,British Columbia,933,Vancouver
+5915051,North Vancouver,British Columbia,933,Vancouver
+5915055,West Vancouver,British Columbia,933,Vancouver
+5915062,Bowen Island,British Columbia,933,Vancouver
+5915065,Lions Bay,British Columbia,933,Vancouver
+5915070,Pitt Meadows,British Columbia,933,Vancouver
+5915075,Maple Ridge,British Columbia,933,Vancouver
+5915801,Semiahmoo,British Columbia,933,Vancouver
+5915802,Tsawwassen,British Columbia,933,Vancouver
+5915803,Musqueam 2,British Columbia,933,Vancouver
+5915804,Coquitlam 2,British Columbia,933,Vancouver
+5915805,Coquitlam 1,British Columbia,933,Vancouver
+5915806,Burrard Inlet 3,British Columbia,933,Vancouver
+5915807,Mission 1,British Columbia,933,Vancouver
+5915808,Capilano 5,British Columbia,933,Vancouver
+5915809,Barnston Island 3,British Columbia,933,Vancouver
+5915810,Musqueam 4,British Columbia,933,Vancouver
+5915811,Seymour Creek 2,British Columbia,933,Vancouver
+5915813,Katzie 2,British Columbia,933,Vancouver
+5915816,McMillan Island 6,British Columbia,933,Vancouver
+5915825,Matsqui 4,British Columbia,933,Vancouver
+5915830,Katzie 1,British Columbia,933,Vancouver
+5915835,Langley 5,British Columbia,933,Vancouver
+5915840,Whonnock 1,British Columbia,933,Vancouver
+5937010,Coldstream,British Columbia,918,Vernon
+5937014,Vernon,British Columbia,918,Vernon
+5937017,North Okanagan B,British Columbia,918,Vernon
+5937021,North Okanagan C,British Columbia,918,Vernon
+5937801,Okanagan (Part) 1,British Columbia,918,Vernon
+5937803,Priest's Valley 6,British Columbia,918,Vernon
+5917005,North Saanich,British Columbia,935,Victoria
+5917010,Sidney,British Columbia,935,Victoria
+5917015,Central Saanich,British Columbia,935,Victoria
+5917021,Saanich,British Columbia,935,Victoria
+5917030,Oak Bay,British Columbia,935,Victoria
+5917034,Victoria,British Columbia,935,Victoria
+5917040,Esquimalt,British Columbia,935,Victoria
+5917041,Colwood,British Columbia,935,Victoria
+5917042,Metchosin,British Columbia,935,Victoria
+5917044,Langford,British Columbia,935,Victoria
+5917047,View Royal,British Columbia,935,Victoria
+5917049,Highlands,British Columbia,935,Victoria
+5917052,Sooke,British Columbia,935,Victoria
+5917054,Capital H (Part 1),British Columbia,935,Victoria
+5917801,Cole Bay 3,British Columbia,935,Victoria
+5917802,Union Bay 4,British Columbia,935,Victoria
+5917803,East Saanich 2,British Columbia,935,Victoria
+5917804,South Saanich 1,British Columbia,935,Victoria
+5917809,Becher Bay 1,British Columbia,935,Victoria
+5917811,Esquimalt,British Columbia,935,Victoria
+5917812,New Songhees 1A,British Columbia,935,Victoria
+5917819,T'Sou-ke,British Columbia,935,Victoria
+2439060,Saint-Christophe-d'Arthabaska,Quebec,440,Victoriaville
+2439062,Victoriaville,Quebec,440,Victoriaville
+4811002,Wetaskiwin,Alberta,865,Wetaskiwin
+6001009,Whitehorse,Yukon,990,Whitehorse
+6001010,Lake Laberge 1,Yukon,990,Whitehorse
+6001044,Mt. Lorne,Yukon,990,Whitehorse
+6001055,Ibex Valley,Yukon,990,Whitehorse
+6001058,Marsh Lake,Yukon,990,Whitehorse
+6001059,Macpherson-Grizzly Valley,Yukon,990,Whitehorse
+6001060,"Whitehorse, Unorganized",Yukon,990,Whitehorse
+5941009,Williams Lake,British Columbia,950,Williams Lake
+5941010,Cariboo D,British Columbia,950,Williams Lake
+5941012,Cariboo E,British Columbia,950,Williams Lake
+5941801,Alkali Lake 1,British Columbia,950,Williams Lake
+5941806,Dog Creek 1,British Columbia,950,Williams Lake
+5941807,Dog Creek 2,British Columbia,950,Williams Lake
+5941810,Soda Creek 1,British Columbia,950,Williams Lake
+5941811,Johny Sticks 2,British Columbia,950,Williams Lake
+5941868,Sandy Harry 4,British Columbia,950,Williams Lake
+5941872,Swan Lake  3,British Columbia,950,Williams Lake
+5941873,Alkali Lake 4A,British Columbia,950,Williams Lake
+5941885,Little Springs,British Columbia,950,Williams Lake
+3537028,Amherstburg,Ontario,559,Windsor
+3537034,LaSalle,Ontario,559,Windsor
+3537039,Windsor,Ontario,559,Windsor
+3537048,Tecumseh,Ontario,559,Windsor
+3537064,Lakeshore,Ontario,559,Windsor
+4602069,Tache,Manitoba,602,Winnipeg
+4602075,Ritchot,Manitoba,602,Winnipeg
+4610035,Macdonald,Manitoba,602,Winnipeg
+4610052,St. Francois Xavier,Manitoba,602,Winnipeg
+4611040,Winnipeg,Manitoba,602,Winnipeg
+4611042,Headingley,Manitoba,602,Winnipeg
+4612047,Springfield,Manitoba,602,Winnipeg
+4613032,East St. Paul,Manitoba,602,Winnipeg
+4613037,West St. Paul,Manitoba,602,Winnipeg
+4613056,St. Clements,Manitoba,602,Winnipeg
+4613062,Brokenhead 4,Manitoba,602,Winnipeg
+4614015,Rosser,Manitoba,602,Winnipeg
+4816037,Wood Buffalo,Alberta,860,Wood Buffalo
+4816817,Janvier 194,Alberta,860,Wood Buffalo
+4816821,Gregoire Lake 176,Alberta,860,Wood Buffalo
+4816822,Gregoire Lake 176A,Alberta,860,Wood Buffalo
+4816831,Chipewyan 201A,Alberta,860,Wood Buffalo
+4816849,Old Fort 217,Alberta,860,Wood Buffalo
+4816850,Allison Bay 219,Alberta,860,Wood Buffalo
+4816852,Dog Head 218,Alberta,860,Wood Buffalo
+4816855,Charles Lake 225,Alberta,860,Wood Buffalo
+4816856,Fort McKay 174,Alberta,860,Wood Buffalo
+4816857,Namur River 174A,Alberta,860,Wood Buffalo
+4816858,Namur Lake 174B,Alberta,860,Wood Buffalo
+4816859,Fort Mackay,Alberta,860,Wood Buffalo
+4816861,Thabacha Nare 196A,Alberta,860,Wood Buffalo
+3532042,Woodstock,Ontario,544,Woodstock
+6106023,Yellowknife,Northwest Territories,995,Yellowknife
+4709011,Orkney No. 244,Saskatchewan,710,Yorkton
+4709012,Yorkton,Saskatchewan,710,Yorkton
+4709014,Ebenezer,Saskatchewan,710,Yorkton
+4709016,Springside,Saskatchewan,710,Yorkton
